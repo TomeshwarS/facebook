@@ -10,6 +10,7 @@ public class FacebookApplication {
 		
 		System.out.println("strarting application");
 		SpringApplication.run(FacebookApplication.class, args);
+		System.out.println("application started");
 	}
 
 }
